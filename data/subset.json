@@ -1,0 +1,439 @@
+{
+    "WeWereSoldiers": [
+        "Not So Different",
+        "What the Hell, Hero?"
+    ],
+    "MurderParty": [
+        "Deadpan Snarker",
+        "Smug Snake",
+        "Adorkable",
+        "Red Herring"
+    ],
+    "ShatteredGlass": [
+        "Deadpan Snarker",
+        "Smug Snake",
+        "Not So Different",
+        "Irony"
+    ],
+    "FindingNeverland": [
+        "Deadpan Snarker",
+        "Bittersweet Ending",
+        "What the Hell, Hero?"
+    ],
+    "AnAllDogsChristmasCarol": [
+        "Adult Fear",
+        "Bittersweet Ending",
+        "What the Hell, Hero?"
+    ],
+    "TheAdventuresOfPlutoNash": [],
+    "JesusChristVampireHunter": [
+        "Big Bad"
+    ],
+    "NancyDrew": [
+        "Red Herring"
+    ],
+    "W": [
+        "Only Sane Man"
+    ],
+    "Poseidon": [
+        "Too Dumb to Live",
+        "Adult Fear",
+        "Irony"
+    ],
+    "HeadOfState": [
+        "Blatant Lies"
+    ],
+    "WhistleDownTheWind": [],
+    "DeadAndDeader": [
+        "Big Bad"
+    ],
+    "WildTarget": [
+        "Deadpan Snarker",
+        "Adorkable"
+    ],
+    "CoolRunnings": [
+        "Determinator",
+        "Bittersweet Ending"
+    ],
+    "RabbitFire": [
+        "Too Dumb to Live",
+        "Irony"
+    ],
+    "ShadowOfADoubt": [
+        "Not So Different"
+    ],
+    "War": [],
+    "InvasionOfTheBodySnatchers": [
+        "Bittersweet Ending"
+    ],
+    "HigherLearning": [
+        "Not So Different",
+        "Screw This, I'm Outta Here!",
+        "Kick the Dog"
+    ],
+    "MissionImpossibleII": [
+        "Big Bad",
+        "Smug Snake",
+        "Eye Scream"
+    ],
+    "TheIncredibleShrinkingMan": [
+        "Bittersweet Ending"
+    ],
+    "Doomsday": [
+        "Too Dumb to Live",
+        "Eye Scream"
+    ],
+    "Sleepwalkers": [
+        "Would Hurt a Child",
+        "Eye Scream",
+        "Bittersweet Ending"
+    ],
+    "Taken": [
+        "Big Bad",
+        "Too Dumb to Live",
+        "Determinator",
+        "Adult Fear",
+        "Not So Different",
+        "What the Hell, Hero?",
+        "Chekhov's Gunman"
+    ],
+    "ChildsPlay2": [
+        "Deadpan Snarker",
+        "Too Dumb to Live",
+        "Would Hurt a Child",
+        "Adult Fear",
+        "Eye Scream",
+        "Bittersweet Ending"
+    ],
+    "TheTenCommandments": [
+        "Big Bad",
+        "Deadpan Snarker",
+        "Too Dumb to Live",
+        "Smug Snake",
+        "Would Hurt a Child",
+        "Adult Fear",
+        "Screw This, I'm Outta Here!",
+        "Kick the Dog",
+        "Irony",
+        "Bittersweet Ending"
+    ],
+    "TheShawshankRedemption": [
+        "Big Bad",
+        "Smug Snake",
+        "Determinator",
+        "Adult Fear",
+        "Screw This, I'm Outta Here!",
+        "Kick the Dog",
+        "Blatant Lies",
+        "Stealth Pun",
+        "Chekhov's Gunman",
+        "Red Herring"
+    ],
+    "QuickChange": [
+        "Deadpan Snarker",
+        "Not So Different",
+        "Bittersweet Ending"
+    ],
+    "FromBeyond": [
+        "Only Sane Man",
+        "Eye Scream",
+        "Bittersweet Ending"
+    ],
+    "AlienCovenant": [
+        "Big Bad",
+        "Too Dumb to Live",
+        "Only Sane Man",
+        "Blatant Lies"
+    ],
+    "Evita": [
+        "Deadpan Snarker"
+    ],
+    "CantHardlyWait": [
+        "Deadpan Snarker",
+        "Chekhov's Gunman"
+    ],
+    "Ararat": [],
+    "SmallTimeCrooks": [],
+    "TheShallows": [
+        "Determinator",
+        "Adult Fear",
+        "Red Herring"
+    ],
+    "ClubDread": [
+        "What the Hell, Hero?",
+        "Red Herring"
+    ],
+    "FatalAttraction": [
+        "Would Hurt a Child",
+        "Adult Fear"
+    ],
+    "TheChristmasToy": [
+        "Too Dumb to Live",
+        "Not So Different",
+        "Irony"
+    ],
+    "ExitWounds": [],
+    "NightMoves": [
+        "Deadpan Snarker"
+    ],
+    "TheAngelsShare": [],
+    "PrettyBaby": [
+        "Would Hurt a Child",
+        "Screw This, I'm Outta Here!"
+    ],
+    "TheAmericanPresident": [
+        "Deadpan Snarker",
+        "Adorkable",
+        "What the Hell, Hero?"
+    ],
+    "HatchetII": [
+        "Big Bad",
+        "Adorkable",
+        "Screw This, I'm Outta Here!",
+        "Eye Scream",
+        "Blatant Lies",
+        "Bittersweet Ending",
+        "What the Hell, Hero?"
+    ],
+    "Twister": [
+        "Big Bad",
+        "Too Dumb to Live",
+        "Smug Snake"
+    ],
+    "Stagecoach": [],
+    "TheLostWorldJurassicPark": [
+        "Deadpan Snarker",
+        "Too Dumb to Live",
+        "Smug Snake",
+        "Screw This, I'm Outta Here!",
+        "What the Hell, Hero?"
+    ],
+    "SnowCake": [
+        "Deadpan Snarker"
+    ],
+    "TopDog": [],
+    "ItHappenedHere": [],
+    "DeadSpaceDownfall": [
+        "Only Sane Man",
+        "Eye Scream"
+    ],
+    "TheBraveLittleToaster": [
+        "Determinator",
+        "Adorkable",
+        "Irony",
+        "Stealth Pun"
+    ],
+    "Dragonslayer": [
+        "Adult Fear",
+        "Not So Different",
+        "Screw This, I'm Outta Here!",
+        "Kick the Dog",
+        "Bittersweet Ending"
+    ],
+    "HospitalMassacre": [
+        "Would Hurt a Child"
+    ],
+    "Willow": [
+        "Determinator",
+        "What the Hell, Hero?"
+    ],
+    "BachelorMother": [],
+    "PoolhallJunkies": [
+        "Screw This, I'm Outta Here!",
+        "Chekhov's Gunman"
+    ],
+    "Friday": [
+        "Big Bad",
+        "Only Sane Man"
+    ],
+    "OzTheGreatAndPowerful": [
+        "Big Bad",
+        "Deadpan Snarker",
+        "Smug Snake",
+        "Screw This, I'm Outta Here!",
+        "Red Herring"
+    ],
+    "ChillFactor": [
+        "Big Bad"
+    ],
+    "TheBigYear": [
+        "Determinator",
+        "Adorkable",
+        "Adult Fear"
+    ],
+    "TheChangeling": [
+        "Adult Fear",
+        "Red Herring"
+    ],
+    "BlackSea": [],
+    "KnockKnock": [],
+    "StarTrekGenerations": [
+        "Deadpan Snarker",
+        "Not So Different",
+        "Irony",
+        "Stealth Pun"
+    ],
+    "TheBirds": [
+        "Big Bad",
+        "Too Dumb to Live",
+        "Would Hurt a Child",
+        "Adult Fear",
+        "Screw This, I'm Outta Here!",
+        "Eye Scream",
+        "Bittersweet Ending"
+    ],
+    "CloakAndDagger": [
+        "Would Hurt a Child",
+        "Adult Fear"
+    ],
+    "LakePlacid3": [
+        "Big Bad",
+        "Deadpan Snarker"
+    ],
+    "KangarooJack": [
+        "Big Bad",
+        "Chekhov's Gunman"
+    ],
+    "EuropaEuropa": [
+        "Screw This, I'm Outta Here!",
+        "Irony",
+        "Bittersweet Ending"
+    ],
+    "DropDeadGorgeous": [
+        "Deadpan Snarker",
+        "Adult Fear",
+        "Blatant Lies"
+    ],
+    "FuneralInBerlin": [
+        "Deadpan Snarker"
+    ],
+    "Horsemen": [
+        "Bittersweet Ending"
+    ],
+    "ScaryMovie4": [
+        "Big Bad",
+        "Too Dumb to Live",
+        "Only Sane Man",
+        "Adult Fear",
+        "Kick the Dog",
+        "Eye Scream"
+    ],
+    "Sorcerer": [
+        "Screw This, I'm Outta Here!"
+    ],
+    "KillBillVol2": [
+        "Smug Snake",
+        "Adult Fear",
+        "Screw This, I'm Outta Here!",
+        "Eye Scream",
+        "Irony",
+        "Stealth Pun",
+        "Bittersweet Ending"
+    ],
+    "Anaconda": [
+        "Smug Snake",
+        "Determinator",
+        "Not So Different"
+    ],
+    "HeartsInAtlantis": [],
+    "Popeye": [
+        "Big Bad",
+        "Adult Fear",
+        "Not So Different",
+        "Kick the Dog",
+        "Stealth Pun"
+    ],
+    "BlackSnakeMoan": [],
+    "SpiritStallionOfTheCimarron": [
+        "Deadpan Snarker",
+        "Determinator"
+    ],
+    "StuckInLove": [
+        "Deadpan Snarker",
+        "Adorkable"
+    ],
+    "Tarantula": [],
+    "StarterFor10": [
+        "Deadpan Snarker",
+        "Smug Snake",
+        "Adorkable"
+    ],
+    "MarleyAndMe": [
+        "Deadpan Snarker"
+    ],
+    "BartonFink": [
+        "Deadpan Snarker",
+        "Adult Fear",
+        "Kick the Dog"
+    ],
+    "AvatarTheLastAirbender": [
+        "Too Dumb to Live"
+    ],
+    "Secretariat": [
+        "Determinator"
+    ],
+    "LittleRuralRidingHood": [
+        "Not So Different"
+    ],
+    "TheDevilsArithmetic": [
+        "Deadpan Snarker",
+        "Adult Fear",
+        "Irony",
+        "Bittersweet Ending"
+    ],
+    "MoonOverMiami": [],
+    "TheGingerdeadMan": [
+        "Big Bad",
+        "Eye Scream"
+    ],
+    "SomethingBorrowed": [
+        "Bittersweet Ending"
+    ],
+    "Outbreak": [
+        "Too Dumb to Live",
+        "Irony",
+        "Blatant Lies",
+        "Chekhov's Gunman"
+    ],
+    "Hook": [
+        "Deadpan Snarker",
+        "Would Hurt a Child",
+        "Adult Fear",
+        "Not So Different",
+        "Screw This, I'm Outta Here!",
+        "Stealth Pun"
+    ],
+    "Goodfellas": [
+        "Big Bad",
+        "Deadpan Snarker",
+        "Too Dumb to Live",
+        "Smug Snake",
+        "Kick the Dog",
+        "Blatant Lies",
+        "Bittersweet Ending"
+    ],
+    "StreetsOfFire": [
+        "Big Bad",
+        "Only Sane Man",
+        "Screw This, I'm Outta Here!",
+        "Bittersweet Ending",
+        "Chekhov's Gunman"
+    ],
+    "ScaryMovie": [
+        "Big Bad",
+        "Too Dumb to Live",
+        "Only Sane Man",
+        "Adult Fear",
+        "Kick the Dog",
+        "Eye Scream"
+    ],
+    "TheMuppets": [
+        "Deadpan Snarker",
+        "Only Sane Man",
+        "Irony",
+        "Stealth Pun",
+        "Bittersweet Ending",
+        "What the Hell, Hero?",
+        "Chekhov's Gunman"
+    ]
+}
