@@ -1,6 +1,6 @@
-# Unveiling Narrative Reasoning Limits of Large Language Models with Trope in Movie Synopses
+# [EMNLP 2024] Unveiling Narrative Reasoning Limits of Large Language Models with Trope in Movie Synopses
 
-Source code for the EMNLP 2024 Findings paper entitled "Unveiling Narrative Reasoning Limits of Large Language Models with Tropes in Movie Synopses"
+Source code for the EMNLP 2024 Findings paper entitled "[Unveiling Narrative Reasoning Limits of Large Language Models with Tropes in Movie Synopses](https://arxiv.org/abs/2409.14324)"
 
 Hung-Ting Su*, Ya-Ching Hsu*, Xudong Lin, Xiang-Qian Shi, Yulei Niu, Han-Yuan Hsu, Hung-yi Lee, Winston H. Hsu
 (*: Equal contribution)
